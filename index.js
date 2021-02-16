@@ -1,6 +1,6 @@
 console.log('Hello From Node.js...');
 
-const Person = require('./person');
+const Person = require('./person'); //common JS
 
 const person1 = new Person('Stephan Isky', 24);
 
